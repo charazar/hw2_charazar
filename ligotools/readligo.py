@@ -1,5 +1,5 @@
 """
-readligo.py
+readligo.py in ligotools folder
 
 
 Version 0.6
