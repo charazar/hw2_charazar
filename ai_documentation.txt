@@ -88,3 +88,5 @@ then I ran
 
 conda env remove -n ligo
 conda env create -f environment.yml
+
+Process: I used this and it worked along with my own additional trouble shooting 
