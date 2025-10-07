@@ -1,0 +1,17 @@
+Claude AI Support
+
+Input: How to add a git-tag to repostiory 
+
+Output: # Create a tag (lightweight)
+git tag v1.0
+
+# Or create an annotated tag (recommended - includes message)
+git tag -a v1.0 -m "Initial release with selected data files"
+
+# Push the tag to GitHub
+git push origin v1.0
+
+# Or push all tags at once
+git push origin --tags
+
+My process: I tried to tweak some of the code and realized I need to commit the whole folder fi
