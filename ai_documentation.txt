@@ -14,4 +14,4 @@ git push origin v1.0
 # Or push all tags at once
 git push origin --tags
 
-My process: I tried to tweak some of the code and realized I need to commit the whole folder fi
+My process: I tried to tweak some of the code and realized I need to commit the whole folder first. 
